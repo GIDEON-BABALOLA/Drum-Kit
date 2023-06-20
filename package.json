@@ -1,0 +1,14 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "A drum kit web appilcation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babalola Gideon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
